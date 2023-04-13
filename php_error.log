@@ -1,0 +1,27 @@
+[09-Apr-2023 08:29:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/merci4dev/Documents/MyCode/Private/php-code/idea-trade/models/get.model.php:16
+Stack trace:
+#0 /home/merci4dev/Documents/MyCode/Private/php-code/idea-trade/controllers/get.controller.php(38): GetModel::getData('idea-trade')
+#1 /home/merci4dev/Documents/MyCode/Private/php-code/idea-trade/routes/services/get.php(14): GetController::getData('idea-trade')
+#2 /home/merci4dev/Documents/MyCode/Private/php-code/idea-trade/routes/routes.php(47): include('/home/merci4dev...')
+#3 /home/merci4dev/Documents/MyCode/Private/php-code/idea-trade/controllers/routes.controller.php(10): include('/home/merci4dev...')
+#4 /home/merci4dev/Documents/MyCode/Private/php-code/idea-trade/index.php(39): RoutesController->index()
+#5 {main}
+  thrown in /home/merci4dev/Documents/MyCode/Private/php-code/idea-trade/models/get.model.php on line 16
+[09-Apr-2023 08:29:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/merci4dev/Documents/MyCode/Private/php-code/idea-trade/models/get.model.php:16
+Stack trace:
+#0 /home/merci4dev/Documents/MyCode/Private/php-code/idea-trade/controllers/get.controller.php(38): GetModel::getData('idea-trade')
+#1 /home/merci4dev/Documents/MyCode/Private/php-code/idea-trade/routes/services/get.php(14): GetController::getData('idea-trade')
+#2 /home/merci4dev/Documents/MyCode/Private/php-code/idea-trade/routes/routes.php(47): include('/home/merci4dev...')
+#3 /home/merci4dev/Documents/MyCode/Private/php-code/idea-trade/controllers/routes.controller.php(10): include('/home/merci4dev...')
+#4 /home/merci4dev/Documents/MyCode/Private/php-code/idea-trade/index.php(39): RoutesController->index()
+#5 {main}
+  thrown in /home/merci4dev/Documents/MyCode/Private/php-code/idea-trade/models/get.model.php on line 16
+[09-Apr-2023 08:34:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/merci4dev/Documents/MyCode/Private/php-code/idea-trade/models/get.model.php:16
+Stack trace:
+#0 /home/merci4dev/Documents/MyCode/Private/php-code/idea-trade/controllers/get.controller.php(38): GetModel::getData('idea-trade')
+#1 /home/merci4dev/Documents/MyCode/Private/php-code/idea-trade/routes/services/get.php(14): GetController::getData('idea-trade')
+#2 /home/merci4dev/Documents/MyCode/Private/php-code/idea-trade/routes/routes.php(47): include('/home/merci4dev...')
+#3 /home/merci4dev/Documents/MyCode/Private/php-code/idea-trade/controllers/routes.controller.php(10): include('/home/merci4dev...')
+#4 /home/merci4dev/Documents/MyCode/Private/php-code/idea-trade/index.php(39): RoutesController->index()
+#5 {main}
+  thrown in /home/merci4dev/Documents/MyCode/Private/php-code/idea-trade/models/get.model.php on line 16
